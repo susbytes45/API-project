@@ -1,0 +1,45 @@
+[
+  {
+    "name": "iphone",
+    "saleDuration": 4,
+    "type": "premium",
+    "ratingsAverage": 4,
+    "ratingsQuantity": 3,
+    "price": 99000,
+    "priceDiscount": 95000,
+    "description": "The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface. The iPhone runs the iOS operating system, and in 2021 when the iPhone 13 was introduced, it offered up to 1 TB of storage and a 12-megapixel camera",
+    "summary": "While you're going about your day, you can use the apps on your iPhone to get directions, make purchases, and control accessories in your home",
+    "imageCover": "phone-image.jpg",
+    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "ratings": 5
+  },
+  {
+    "name": "laptop",
+    "saleDuration": 5,
+    "type": "premium",
+    "ratingsAverage": 3,
+    "ratingsQuantity": 5,
+    "price": 89000,
+    "priceDiscount": 80000,
+    "description": "A laptop is a personal computer that can be easily moved and used in a variety of locations. Most laptops are designed to have all of the functionality of a desktop computer, which means they can generally run the same software and open the same types of files",
+    "summary": "Laptops are used in a variety of settings, such as at work (especially on business trips), in education, for playing games, web browsing, for personal multimedia, and for general home computer use",
+    "imageCover": "laptop-image.jpg",
+    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "ratings": "4.2"
+  },
+  {
+    "name": "Bed",
+    "saleDuration": 3,
+    "type": "basic",
+    "ratingsAverage": 3,
+    "ratingsQuantity": 34,
+    "price": 2400,
+    "priceDiscount": 2200,
+    "description": "In ancient India beds were both placed on the ground and hung from a ceiling or a stand. A Swanswing bed called 'Hamsa Toolika Talpa' was made of wood and hung up. The mattress and pillows used a special stuffing made of a dried orchid called 'suppatige'(Kannada). This is still considered the best form of stuffing in some parts of India. They also used cotton stuffing which is still used today.",
+
+    "summary": "A bed is an item of furniture that is used as a place to sleep, rest, and relax.",
+    "imageCover": "bed-image.jpg",
+    "images": ["1.jpg", "2.jpg", "3.jpg"],
+    "ratings": 3
+  }
+]
